@@ -1,3 +1,5 @@
+\\ Autorretrato hecho por Daniela Maldonado
+
 int fondoX=0;
 int fondoY=0;
 
